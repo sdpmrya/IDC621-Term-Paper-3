@@ -1,3 +1,6 @@
+Sudeep Maurya MS21130  
+  
+
 The code was written using julia language in the jupyter notebook.  
 The Logistic_map.ipnb contains the logistic map and the bifurcation diagram.  
 
